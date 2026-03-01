@@ -12,7 +12,7 @@ public class QuickNewsApplication {
 
         @GetMapping("/")
         public String hello() {
-            return "Hello World!";
+            return "Lucky days!!!!!!!";
         }
     }
 
